@@ -45,3 +45,11 @@ python app.py
 
 Open your browser and go to http://127.0.0.1:5000
 
+📸 Demo Screenshots
+🔹 Web App Running in Browser
+
+🔹 Flask App Running in Terminal
+
+Created by [Ayush Kumar Singh]
+Feel free to connect with me on LinkedIn or email me ayushkrsingh4x@gmail.com
+
