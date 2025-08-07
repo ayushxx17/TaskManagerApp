@@ -45,11 +45,15 @@ python app.py
 
 Open your browser and go to http://127.0.0.1:5000
 
-📸 Demo Screenshots
-🔹 Web App Running in Browser
+📸 Screenshots
 
-🔹 Flask App Running in Terminal
+### 🔹 Task Manager Web App
+![Web App Screenshot](static/app_screenshot.png.png)
 
-Created by [Ayush Kumar Singh]
-Feel free to connect with me on LinkedIn or email me ayushkrsingh4x@gmail.com
+### 🔹 Terminal Running Flask App
+![Terminal Screenshot](static/terminal_screenshot.png.png)
 
+
+Created by [Ayush Kumar Singh]  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/ayush-kumar-singhxx)  
+📧 Email: ayushkrsingh4x@gmail.com
