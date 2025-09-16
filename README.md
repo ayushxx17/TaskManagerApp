@@ -19,7 +19,7 @@ TaskManagerApp/
 ├── tasks.json # Stores tasks data
 ├── templates/
 │ └── index.html # HTML + Jinja2 template
-├── static/ # Folder for screenshots or assets (optional)
+├── static/ # Folder for screenshots or assets 
 │ ├── app_screenshot.png # Screenshot of the web app
 │ └── terminal_screenshot.png # Screenshot of the terminal
 └── README.md # Project documentation
